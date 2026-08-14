@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# Vandita Soni (vsoni3@u.rochester.edu)
-# Ji Woong Hong (jhong36@u.rochester.edu)
-# Yarong Xiao (yxiao37@u.rochester.edu)
-
 import sys
 import math
 import random
